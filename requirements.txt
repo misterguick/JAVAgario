@@ -1,3 +1,4 @@
 torch
 websocket-client
 opencv-python
+matplotlib
