@@ -1,16 +1,19 @@
-# JAVAgario
+# Deep Reinforcement Learning with JAVAgario
 
-## Description
+Project realized as part of the course *[Deep learning](https://github.com/glouppe/info8010-deep-learning)* given by **Gilles Louppe** to graduate data science engineering students at the [University of Liège](https://www.uliege.be/) during the academic year 2019-2020.
 
-JAVAgario is an aysncronous implementation of the [agar.i.o](https://agar.io) made by [Baptiste Debes](https://github.com/misterguick).
+## Content
+* `game_engine` contains the JAVAgario game environment. See [`JAVAgario.md`](https://github.com/15louisn/JAVAgario/JAVAgario.md).
+* `models` contains the different deep RL models we used.
 
-## Use
-
-The server can be launched via a terminal using the following command:
-```  
-java -cp game_engine.jar GameServerPool
-```
 ## Required packages
 
-Can be found in the `requirements.txt` file
+Can be found in the `requirements.txt` file.
+
+## Authors
+
+* **Baptiste Debes** - [misterguick](https://github.com/misterguick)
+* **Louis Nelissen** - [15louisn](https://github.com/15louisn)
+* **Pierre-François Weyders** - [Pierre-FrancoisW](https://github.com/Pierre-FrancoisW)
+
 
