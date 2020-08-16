@@ -3,7 +3,7 @@
 Project realized as part of the course *[Deep learning](https://github.com/glouppe/info8010-deep-learning)* given by **Gilles Louppe** to graduate data science engineering students at the [University of Liège](https://www.uliege.be/) during the academic year 2019-2020.
 
 ## Content
-* `game_engine` contains the JAVAgario game environment. See [`JAVAgario.md`](https://github.com/15louisn/JAVAgario/JAVAgario.md).
+* `game_engine` contains the JAVAgario game environment. See [`JAVAgario.md`](https://github.com/15louisn/JAVAgario/game_engine/JAVAgario.md).
 * `models` contains the different deep RL models we used.
 
 ## Required packages
